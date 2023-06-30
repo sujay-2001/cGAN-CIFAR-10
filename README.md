@@ -43,6 +43,6 @@ Hyperparameters:
 **Results:** The quality of the generated images is satisfactory and distinguishable. The final accuracy of the model is evaluated by computing the mean square error (MSE) of the normalized pixel values of generated image and real images for each class. The evaluated accuracy is 82%.
 
 ## Extension ideas:
-Effect of changing latent space
-\n Effect of introducing skip connections
-Effect of adding L2/SSIM loss
+Effect of changing latent space.
+Effect of introducing skip connections.
+Effect of adding L2/SSIM loss.
