@@ -44,5 +44,7 @@ Hyperparameters:
 
 ## Extension ideas:
 Effect of changing latent space.
+
 Effect of introducing skip connections.
+
 Effect of adding L2/SSIM loss.
