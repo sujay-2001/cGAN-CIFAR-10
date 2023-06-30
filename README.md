@@ -20,6 +20,7 @@ This blog post showcases my personal project journey, highlighting the practical
 
 **Building the Generator Network:** The generator network is responsible for generating fake images that resemble the real images from the dataset. I implemented a deep convolutional neural network (CNN) as the generator network. The network takes a random noise vector along with a label (condition) as input and generates an image of size 32x32 pixels. The final architecture is as shown below.
 ![Demo Link](https://github.com/sujay-2001/cGAN-CIFAR-10/blob/main/cifar_gen.png)
+
 **Building the Discriminator Network:** The discriminator network is responsible for distinguishing between real and fake images. It is also implemented as a deep CNN. The discriminator network takes an image along with a label (condition) as input and outputs a probability indicating whether the image is real or fake.
 ![Demo Link](https://github.com/sujay-2001/cGAN-CIFAR-10/blob/main/cifar_dis.png)
   
